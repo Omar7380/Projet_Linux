@@ -90,5 +90,3 @@ sudo bash backup/backup_daily.sh <mot-de-passe-root-mariadb>
 ## Auteur
 Ce projet a été développé pour la Haute École en Hainaut dans le cadre du cours Linux.
 
-## Licence
-Ce projet est distribué sous licence MIT. 
