@@ -8,7 +8,6 @@ Le projet est organisé de manière modulaire pour faciliter la maintenance et l
 
 - **📁 raid/** : Scripts de configuration RAID et partitionnement
 - **📁 services/** : Scripts d'installation et configuration des services (DNS, Samba, Web, FTP, NTP...)
-- **📁 reseau/** : Scripts de configuration réseau
 - **📁 utilisateurs/** : Scripts de gestion des utilisateurs
 - **📁 securite/** : Scripts de sécurisation du système
 - **📁 backup/** : Scripts de sauvegarde et restauration
@@ -89,4 +88,6 @@ sudo bash backup/backup_daily.sh <mot-de-passe-root-mariadb>
 
 ## Auteur
 Ce projet a été développé pour la Haute École en Hainaut dans le cadre du cours Linux.
+L'objectif du github est d'avoir une trace des configurations qui nous avons effectués 
+sur l'instance 
 
