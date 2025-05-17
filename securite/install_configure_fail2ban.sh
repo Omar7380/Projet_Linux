@@ -1,6 +1,5 @@
 #!/bin/bash
 # Script d'installation et configuration de Fail2ban
-# Auteur: [Votre Nom]
 # Date: Mai 2025
 
 # Variables

@@ -1,6 +1,5 @@
 #!/bin/bash
 # Script d'installation et configuration du serveur FTP (VSFTPD)
-# Auteur: [Votre Nom]
 # Date: Mai 2025
 
 # Variables

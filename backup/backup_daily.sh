@@ -1,6 +1,5 @@
 #!/bin/bash
 # Script de sauvegarde quotidienne du système
-# Auteur: [Votre Nom]
 # Date: Mai 2025
 
 # Variables

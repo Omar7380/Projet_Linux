@@ -1,6 +1,5 @@
 #!/bin/bash
 # Script de configuration RAID 1 et partitionnement
-# Auteur: [Votre Nom]
 # Date: Mai 2025
 
 # Variables

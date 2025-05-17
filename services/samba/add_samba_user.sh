@@ -1,6 +1,5 @@
 #!/bin/bash
 # Script d'ajout d'utilisateur avec accès Samba
-# Auteur: [Votre Nom]
 # Date: Mai 2025
 
 # Vérifier les privilèges root

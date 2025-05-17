@@ -1,6 +1,5 @@
 #!/bin/bash
 # Script d'installation et configuration de Netdata (client à monitorer)
-# Auteur: [Votre Nom]
 # Date: Mai 2025
 
 # Variables

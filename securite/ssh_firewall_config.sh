@@ -1,6 +1,5 @@
 #!/bin/bash
 # Script de configuration sécurisée de SSH et du pare-feu
-# Auteur: [Votre Nom]
 # Date: Mai 2025
 
 # Variables

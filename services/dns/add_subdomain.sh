@@ -1,6 +1,5 @@
 #!/bin/bash
 # Script d'ajout de sous-domaine DNS
-# Auteur: [Votre Nom]
 # Date: Mai 2025
 
 # Variables

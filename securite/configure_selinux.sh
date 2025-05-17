@@ -1,6 +1,5 @@
 #!/bin/bash
 # Script de configuration de SELinux
-# Auteur: [Votre Nom]
 # Date: Mai 2025
 
 # Variables

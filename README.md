@@ -48,9 +48,10 @@ Le projet est organisé de manière modulaire pour faciliter la maintenance et l
 ### 6. Monitoring
 - Netdata pour la surveillance en temps réel
 - Configuration client/serveur pour surveillance centralisée
+- Un script permettant d'afficher du status et les règles des services suivant : Firewalld, Samba, Bind, VSFTPD, Apache, MariaDB, NTP
 
 ## Prérequis
-- Amazon Linux 2 / RHEL-compatible OS
+- Amazon Linux 2023 / RHEL-compatible OS
 - Deux disques pour le RAID 1
 - Accès root
 

@@ -7,7 +7,6 @@
 # - Apache
 # - MariaDB
 # - Quota
-# Auteur: [Votre Nom]
 # Date: Mai 2025
 
 # Variables
