@@ -38,6 +38,7 @@ Le projet est organisé de manière modulaire pour faciliter la maintenance et l
 
 ### 4. Gestion des utilisateurs
 - Création d'utilisateurs avec intégration complète (système, Samba, FTP, DNS, web, base de données)
+- Suppression d'utilisateurs avec intégration complète (système, Samba, FTP, DNS, web, base de données)
 - Quotas disque automatiques
 
 ### 5. Sauvegarde et restauration
@@ -48,7 +49,7 @@ Le projet est organisé de manière modulaire pour faciliter la maintenance et l
 ### 6. Monitoring
 - Netdata pour la surveillance en temps réel
 - Configuration client/serveur pour surveillance centralisée
-- Un script permettant d'afficher du status et les règles des services suivant : Firewalld, Samba, Bind, VSFTPD, Apache, MariaDB, NTP
+- Un script permettant d'afficher le statut et les règles des services suivants : Firewalld, Samba, Bind, VSFTPD, Apache, MariaDB, NTP
 
 ## Prérequis
 - Amazon Linux 2023 / RHEL-compatible OS
